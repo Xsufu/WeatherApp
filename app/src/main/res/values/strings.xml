@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="search">Search</string>
+    <string name="update">Updating Data</string>
+    <string name="days">Days</string>
+    <string name="hours">Hours</string>
+    <string name="empty">Почасовые данные на выбранный день отсутсвуют</string>
+</resources>
